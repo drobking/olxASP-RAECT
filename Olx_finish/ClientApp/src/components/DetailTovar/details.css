@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+.block1 {
+    background-color: rgb(233, 233, 233);
+}
+
+.bt {
+    border: none;
+    outline: none;
+}
+
+.txt {
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+.br-r {
+    border-radius: 5px;
+}
